@@ -3,12 +3,12 @@ A little about CSS grid property.
 
 How to add grid layout to your website.
 Properties used in this.
-2) grid-column-end
-3) grid-row-start
-4) grid-row-end
-5) Display Grid.
-6) grid-template-row: repeat(1,1fr)
-7) gap
+1) grid-column-end
+2) grid-row-start
+3) grid-row-end
+4) Display Grid.
+5) grid-template-row: repeat(1,1fr)
+6) gap
    
    
 
