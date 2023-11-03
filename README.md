@@ -7,8 +7,7 @@ Properties used in this.
 2) grid-row-start
 3) grid-row-end
 4) Display Grid.
-5) grid-template-row: repeat(1,1fr)
-6) gap
+5) gap
    
    
 
