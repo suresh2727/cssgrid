@@ -7,6 +7,7 @@ Properties used in this.
 2) grid-row-start.
 3) grid-cols.
 4) grid-row-end.
+5) Grid-end
 
    
 
